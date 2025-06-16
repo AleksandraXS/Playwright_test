@@ -3,6 +3,14 @@
 # Link 
 - code repo - https://github.com/AleksandraXS/Playwright_test
 
+# Pobranie pliku README.md
+- należy pobrać tekst README.md z repozytorium w wersji raw.
+- w projekcie (w miejscu gdzie znajduje się test Test.py) należy utworzyć plik
+  1. New -> File
+  2. Nazwać -> README.md
+  3. wkleić dane skopiowane z pliku znajdującego się w repozytorium (RAW)
+  4. Po wykonaniu należy przejść dalej.
+  
 ## 1. Aby testy zadziałały 
 - należy pobrać z GitHub repozytorium
 - zaistalować potrzebne dane (pip install playwright, playwright install) i oczywiście mieć pobranego python'a.
